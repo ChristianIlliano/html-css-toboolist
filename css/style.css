@@ -29,15 +29,15 @@ li {
 }
 
 /* RESEARCH */
-
 .research {
     background-color: #edf2f7;
     width: 80%;
-    margin: 10px auto;
-    padding: 40px 40px;
+    margin: 40px auto 1px auto;
+    padding: 30px 40px;
+    text-align: center;
 }
 .form-controll {
-    width: 20%;
+    width: 40%;
     padding: 10px;
     border-radius: 5px;
     border: colla;
@@ -54,7 +54,6 @@ button {
 /* /RESEARCH */
 
 /* TASKLIST */
-
 .tasklist {
     background-color: #edf2f7;
     width: 80%;
@@ -70,5 +69,91 @@ ul {
     padding: 20px 0px 20px 10px;
     margin-bottom: 2%;
     background-color: white;
-    
 }
+
+h1 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+/* Stickers */
+
+.todolist .sticker {
+    display: inline-block;
+    background-color: #14aaf5;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+
+}
+
+.todolist .sticker2 {
+    display: inline-block;
+    background-color: #17c9a0;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+
+}
+
+.todolist .sticker3 {
+    display: inline-block;
+    background-color: #a614f5;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+
+}
+
+.todolist .sticker4 {
+    display: inline-block;
+    background-color: #f5b914;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+
+}
+
+.todolist .sticker5 {
+    display: inline-block;
+    background-color: #a7fe55;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+
+}
+
+.todolist .sticker6 {
+    display: inline-block;
+    background-color: #e81e8d;
+    color: white;
+    width: 80px;
+    height: 30px;
+    border-radius: 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 30px;
+
+}
+
+/* /stickers */
