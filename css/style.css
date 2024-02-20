@@ -1,0 +1,19 @@
+/* RESET */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+.header-logo {
+    background-color: #edf2f7;
+    padding: 20px;
+
+}
+
+.logotoboolist {
+display: block;
+margin: 0 auto;
+height: 80px;
+}
